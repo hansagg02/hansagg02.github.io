@@ -21,7 +21,7 @@ h2 {
   
   /* Change color of <a> when hovering */
   a:hover {
-    color: rgb(0, 255, 47);
+    color: rgb(255, 0, 0);
   }
   
   /* Change box model properties */
